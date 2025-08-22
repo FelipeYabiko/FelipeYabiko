@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Im Felipe | Software Engineering Student | Interests: Backend, Blockchain, and AI |<br><br>Eae 👋 ! Eu sou o Felipe | Estudante de Engenharia de Software | Interesses: Backend, Blockchain e IA |</h2>
+<h2 align="left">Hi 👋! Im Felipe | Software Engineering Student | Interests: Mobile and AI |<br><br>Eae 👋 ! Eu sou o Felipe | Estudante de Engenharia de Software | Interesses: Mobile e IA |</h2>
 
 ###
 
