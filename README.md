@@ -59,7 +59,8 @@ Desenvolvedor focado em resolver problemas complexos com soluções eficientes, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" title="Node.js" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase" title="Firebase" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="35" alt="playwright" title="Playwright" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github actions" title="GitHub Actions" /> <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" title="Python" /> <img width="10" />
 </div>
 
 <br clear="both">
