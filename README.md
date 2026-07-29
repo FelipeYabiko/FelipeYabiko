@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong> Engenharia de Software | Dados | Automação & IA </strong></p>
-  <p><em> Transformo planilhas e processos manuais em sistemas autônomos. </em></p>
+  <p><em> Desenvolvendo aplicações web e mobile modernas com integração nativa de modelos de IA. </em></p>
 </div>
 
 <div align="center">
