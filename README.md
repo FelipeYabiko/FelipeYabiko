@@ -70,5 +70,5 @@ Desenvolvedor focado em resolver problemas complexos com soluções eficientes, 
 
 - 🧠 **Economic Echo:** Aplicativo Android em Kotlin que agrega notícias econômicas e utiliza a **API do Gemini (LLM)** para gerar resumos concisos e automáticos em tempo real.
 - 🩺 **Cancer Survival Predictor (ML):** Modelos preditivos de aprendizado de máquina para classificar a sobrevivência de pacientes baseados em dados clínicos reais. Técnicas aplicadas incluem **PCA, GridSearchCV em KNN e MLP**.
-- 👓 **[Pega a Visão](https://pega-a-visao.vercel.app/):** Plataforma Multi-Tenant conectando óticas e clínicas oftalmológicas. (Next.js, TypeScript, Firebase). *Tech Lead de um time de 6 pessoas.*
+- 👓 **[Pega a Visão](https://pega-a-visao.vercel.app/):** Plataforma Multi-Tenant conectando óticas e clínicas oftalmológicas. (Next.js, TypeScript, Firebase).
 - 🎬 **[Party Ranking](https://partyrank-vercel.vercel.app/):** Ferramenta web de votação com processamento de vídeo automatizado. Roda um pipeline contínuo (GitHub Actions e FFmpeg) para consolidar resultados sem intervenção humana.
